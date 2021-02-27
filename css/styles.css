@@ -10136,8 +10136,8 @@ h3 {
   padding-bottom: 6rem;
 }
 .masthead .masthead-heading {
-  font-size: 2.75rem;
-  line-height: 2.75rem;
+  font-size: 1rem;
+  line-height: 4rem;
 }
 .masthead .masthead-subheading {
   font-size: 1.25rem;
@@ -10152,7 +10152,7 @@ h3 {
     padding-bottom: 6rem;
   }
   .masthead .masthead-heading {
-    font-size: 1.50rem;
+    font-size: 1rem;
     line-height: 4rem;
   }
   .masthead .masthead-subheading {
