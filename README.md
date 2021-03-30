@@ -1,1 +1,1 @@
-http://medm.aungwana.com/
+https://generation-zmm.github.io/web/
